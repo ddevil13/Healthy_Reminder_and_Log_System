@@ -498,8 +498,7 @@ def main():
         elif todo == 6:
             init(autoreset=True)
             print(
-                Fore.LIGHTGREEN_EX + "\nHealthy Reminder and log System by ddevil13.\n\nIn case of any query or "
-                                     "suggestions:\nemail: dhirennagar97@gmail.com.\nThank you for using the program."
+                Fore.LIGHTGREEN_EX + "\nHealthy Reminder and log System by ddevil13.\n\nThank you for using the program."
                                      "\n\nType exit to close Terminal Window. ")
             sys.exit(0)
         else:
